@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-pypdf2
-pandas
-python-dotenv
-fpdf
-Pillow
