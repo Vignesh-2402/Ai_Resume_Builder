@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pypdf2
+pandas
+python-dotenvstreamlit
+google-generativeai
+pypdf2
+pandas
+python-dotenv
