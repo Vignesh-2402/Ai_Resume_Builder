@@ -1,0 +1,12 @@
+Skill,Course_Name,URL
+Data preprocessing and cleaning,Data Preprocessing for Machine Learning,https://cognitiveclass.ai/courses/data-preprocessing-machine-learning
+Understanding of AI concepts and NLP,Introduction to AI and NLP,https://cognitiveclass.ai/courses/introduction-natural-language-processing
+"Experience with cloud platforms beyond basic AWS (e.g., IBM Cloud, Google Cloud)",Introduction to IBM Cloud,https://cognitiveclass.ai/courses/ibm-cloud-essentials
+"Experience with cloud platforms beyond basic AWS (e.g., IBM Cloud, Google Cloud)",Google Cloud Essentials,https://www.coursera.org/learn/google-cloud-fundamentals
+"Knowledge of AI/ML libraries such as scikit-learn, TensorFlow, PyTorch",Practical Machine Learning with scikit-learn,https://cognitiveclass.ai/courses/machine-learning-with-python
+"Knowledge of AI/ML libraries such as scikit-learn, TensorFlow, PyTorch",Intro to TensorFlow,https://www.tensorflow.org/resources/learn-ml
+"Explicit mention of data-pipeline building / data-visualization tools (e.g., Tableau, PowerBI)",Data Visualization with Python,https://cognitiveclass.ai/courses/data-visualization-with-python
+"Explicit mention of data-pipeline building / data-visualization tools (e.g., Tableau, PowerBI)",Data Pipelines with Apache Airflow,https://www.astronomer.io/events/getting-started-airflow
+Data preprocessing and cleaning,Feature Engineering,https://www.kaggle.com/learn/feature-engineering
+Analytical / visualization tools,Matplotlib & Seaborn for Beginners,https://www.datacamp.com/courses/introduction-to-data-visualization-with-python
+Data pipeline / ETL experience,Intro to Apache Airflow,https://www.astronomer.io/events/getting-started-airflow
